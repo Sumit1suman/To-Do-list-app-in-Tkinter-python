@@ -1,5 +1,3 @@
-# To-Do-list-app-in-Tkinter-python
-here i have created to-do list app using Tkinter python
 import tkinter as tk
 from tkinter import messagebox
 
